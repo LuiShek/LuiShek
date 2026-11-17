@@ -46,13 +46,6 @@ cohort bug that produced it, rather than quietly deleting the number.
 Ongoing data-structures and algorithms practice, synced from NeetCode — arrays,
 two pointers, sliding window, stacks, binary search, trees, heaps, graphs.
 
-## Private work
-
-Agent harnesses I build and run, kept private: **DeepDragon**, **T-HEAD**,
-**G-HEAD**, and **Dyros** — browser-first agent architectures with capability
-gating, role specialisation, and a discipline layer that constrains what the
-agent is permitted to do.
-
 ## Tooling
 
 `Python` · `NumPy` · `SciPy` · `scikit-learn` · `OpenCV` · `C++` ·
